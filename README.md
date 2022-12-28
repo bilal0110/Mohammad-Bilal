@@ -1,7 +1,15 @@
-# Mohammad-Bilal
-👋 Hi, I’m @bilal0110
-👀 I’m interested in to deal with data and learn something new about techonologies
-🌱 I’m currently learning data analysis
-💞️ I’m looking to collaborate on data analysis % data visualization
-📫 How to reach me bilalmohd175@gmail.com
-Currently i am working on export shipments dataset.![istockphoto-962383684-612x612](https://user-images.githubusercontent.com/115984369/209830877-7af6d96d-6c9c-4361-812d-b028588dc1e7.jpg)
+Currently i am working on export shipments dataset......
+
+![s line](https://user-images.githubusercontent.com/115984369/209832088-77d2a4a9-6e7a-431c-96bb-ec2a1b1b52f7.jpeg)
+
+
+
+
+Sample of dataset
+![exp ss](https://user-images.githubusercontent.com/115984369/209832132-b8a46bb0-c5ec-4119-a703-5806d5979f1f.png)
+This project i will upload on github very soon.
+
+Thank You
+Mohammad Bilal
+Email.:bilalmohd175@gmail.com
+linkedIn.: https://www.linkedin.com/in/mohammad-bilal-0b41758a/
